@@ -6,9 +6,9 @@
 
 <p>
   Hello there, I'm Max S. from the United States. I'm an experienced security analyst with a focus on vulnerability management, security operations, and administration.
-  <br>
+  <br><br>
   My hobbies extend from automation and security engineering (with pwsh), to racing (sim and real).
-  <br>
+  <br><br>
   If you know of any way to combine both, please reach out to me!
 </p>
 
